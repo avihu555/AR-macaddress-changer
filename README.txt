@@ -12,8 +12,8 @@ Execution
 >>> bash macchanger.sh
 
 *** You can check the change by commands:
-```
+`
 >>> ip a 
 or 
 >>> ifconfig
-```
+`
