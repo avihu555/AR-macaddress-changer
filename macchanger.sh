@@ -12,5 +12,5 @@ sudo ifconfig $interfaceName hw ether $mac
 sudo ifconfig $interfaceName down
 sudo ifconfig $interfaceName up
 
-echo "[+]$interfaceName"
-echo "[+]$mac"
+
+echo "Your new MAC address is:   $mac"
